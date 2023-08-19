@@ -8,22 +8,22 @@ Here are some of the projects that I have worked on or contributed to:
 
 <ul>
   <li>
-    [Quidroo](http://quidroo.com): An online factoring platform where transactions are streamlined and SMEs get paid within 72 hours by selling their invoices to investors to get fast cash at favorable rates. I led a team to build and integrate the Stellar blockchain into Quidroo, winning a Stellar Community Fund grant of $35,000 for cross-border transaction compliance.
+    <a href="http://quidroo.com" target="blank">Quidroo</a>: An online factoring platform where transactions are streamlined and SMEs get paid within 72 hours by selling their invoices to investors to get fast cash at favorable rates. I led a team to build and integrate the Stellar blockchain into Quidroo, winning a Stellar Community Fund grant of $35,000 for cross-border transaction compliance.
   </li>
   <li>
-    [Geynius](https://geynius.com/): An AI platform that helps you create a professional resume, portfolio, and cover letter in minutes. I worked with a team of developers to create modular, reusable components, optimize code, and integrate ChatGPT API into the application.
+     <a href="https://geynius.com/" target="blank">Geynius</a>: An AI platform that helps you create a professional resume, portfolio, and cover letter in minutes. I worked with a team of developers to create modular, reusable components, optimize code, and integrate ChatGPT API into the application.
   </li>
   <li>
-    [WasteCoin](https://www.wastecoin.co.uk/): A mobile blockchain application designed to incentivize users for their recycling efforts. I built the web landing page with React.
+    <a href="https://www.wastecoin.co.uk/" target="blank">WasteCoin</a>: A mobile blockchain application designed to incentivize users for their recycling efforts. I built the web landing page with React.
   </li>
   <li>
-    [Carilo](https://www.cariloapp.com/): A web and mobile platform that connects senders to verified carriers to enable cost-effective and seamless way billing of packages with ease. I built the web frontend using NextJs, Tailwind, and Typescript.
+    <a href="https://www.cariloapp.com/" target="blank">Carilo</a>: A web and mobile platform that connects senders to verified carriers to enable cost-effective and seamless way billing of packages with ease. I built the web frontend using NextJs, Tailwind, and Typescript.
   </li>
    <li>
-    [Duro](https://duro-team-lambda-fe.vercel.app/): A virtual queue management system that allows customers to make an appointment and join a virtual queue by scanning a QR code. I worked with a team of developers to build the frontend using NextJS, Typescript, and TailwindCSS. I was personally responsible for the development of the APIs and integration of Firebase BaaS.
+     <a href="https://duro-team-lambda-fe.vercel.app/" target="blank">Duro</a>: A virtual queue management system that allows customers to make an appointment and join a virtual queue by scanning a QR code. I worked with a team of developers to build the frontend using NextJS, Typescript, and TailwindCSS. I was personally responsible for the development of the APIs and integration of Firebase BaaS.
   </li>
   <li>
-    [Reliance HMO PFSO](https://github.com/PipelineV2/reliance-gamma): A feature that makes it easy to filter, export, and share the hospitals across all states that are available under any plan of choice, making it easy to find the right healthcare provider. I worked with a team of developers to build the frontend using NextJS, Typescript, and TailwindCSS. I was personally responsible for writing the logic to handle complex search queries, select and multi-select feature components as well as consumption of APIs.
+    <a href="https://github.com/PipelineV2/reliance-gamma" target="blank">Reliance HMO PFSO</a>: A feature that makes it easy to filter, export, and share the hospitals across all states that are available under any plan of choice, making it easy to find the right healthcare provider. I worked with a team of developers to build the frontend using NextJS, Typescript, and TailwindCSS. I was personally responsible for writing the logic to handle complex search queries, select and multi-select feature components as well as consumption of APIs.
   </li>
 </ul>
 
@@ -31,30 +31,31 @@ Here are some of the projects that I have worked on or contributed to:
 
 <ul>
   <li>
-    [Shaanu](https://github.com/todak2000/shaanu): A mobile app that empowers neighbors to share unused food, household items with each other, or even money, helping to alleviate the financial burden of everyday life. I built the app using React Native, Typescript, and Expo.
+    <a href="https://github.com/todak2000/shaanu" target="blank">Shaanu</a>: A mobile app that empowers neighbors to share unused food, household items with each other, or even money, helping to alleviate the financial burden of everyday life. I built the app using React Native, Typescript, and Expo.
   </li>
   <li>
-    [WasteCoin]( https://play.google.com/store/apps/details?id=co.wastecoin.www): A mobile blockchain application designed to incentivize users for their recycling efforts. I worked with a team of developers to build the mobile frontend using React Native and Expo. I was personally responsible for creating reusable components and writing the backend logic with Python (Django).
+    <a href="https://play.google.com/store/apps/details?id=co.wastecoin.www" target="blank">WasteCoin</a>: A mobile blockchain application designed to incentivize users for their recycling efforts. I worked with a team of developers to build the mobile frontend using React Native and Expo. I was personally responsible for creating reusable components and writing the backend logic with Python (Django).
   </li>
   <li>
-    FarmGrid: An in-house mobile application for [Futux Agric-consult Ltd](https://www.futuxconsult.com) that allows farm extension agents to capture farmers’ data, farm data, geospatial data for agro-finance analysis, and efficient produce operations. I worked with [Tope Albert](https://github.com/albert85) to build the mobile frontend using React Native, Typescript, and Expo. I was personally responsible for creating reusable components, developing an algorithm for calculating Farm area, and integrating Google Maps.
+    FarmGrid: An in-house mobile application for <a href="https://www.futuxconsult.com" target="blank">Futux Agric-consult Ltd</a> that allows farm extension agents to capture farmers’ data, farm data, geospatial data for agro-finance analysis, and efficient produce operations. I worked with <a href="https://github.com/albert85" target="blank">Tope Albert</a> to build the mobile frontend using React Native, Typescript, and Expo. I was personally responsible for creating reusable components, developing an algorithm for calculating Farm area, and integrating Google Maps.
   </li>
   
   <li>
-    [Carilo](https://github.com/Carilo-org): A web and mobile platform that connects senders to verified carriers to enable cost-effective and seamless way billing of packages with ease. I worked with a team of developers to build the mobile frontend using React Native and Expo.
+    <a href="https://github.com/Carilo-org">Carilo</a>: A web and mobile platform that connects senders to verified carriers to enable cost-effective and seamless way billing of packages with ease. I worked with a team of developers to build the mobile frontend using React Native and Expo.
   </li>
   <li>
-    [Recykoin](https://play.google.com/store/apps/details?id=com.chanjadatti.recykoin_mobile): A mobile application designed to incentivize users for their recycling efforts. It was built for [Chanja Datti Ltd](https://www.chanjadatti.com). I built the app using React Native, Expo - frontend; Django - backend, and deployed it on the google play store.
+    <a href="https://play.google.com/store/apps/details?id=com.chanjadatti.recykoin_mobile" target="blank">Recykoin</a>: A mobile application designed to incentivize users for their recycling efforts. It was built for <a href="https://www.chanjadatti.com">Chanja Datti Ltd</a>. I built the app using React Native, Expo - frontend; Django - backend, and deployed it on the google play store.
   </li>
 </ul>
+
 <h3 align="left">Open Source Libraries</h3>
 
 <ul>
   <li>
-    [Nigeria-states-lga react library](https://www.npmjs.com/package/@todak2000/nigeria-state-lga-react-component): A public react library that allows developers to quickly fetch data about Nigerian geographical regions, states, and Local Government Areas (LGA). It has two widgets and three API hooks (useStatesApi, useStateLGAApi, StateWidget, LGAWidget, useRegionsApi).
+    <a href="https://www.npmjs.com/package/@todak2000/nigeria-state-lga-react-component">Nigeria-states-lga react library</a>: A public react library that allows developers to quickly fetch data about Nigerian geographical regions, states, and Local Government Areas (LGA). It has two widgets and three API hooks (useStatesApi, useStateLGAApi, StateWidget, LGAWidget, useRegionsApi).
   </li>
   <li>
-    [React-user-analytics](https://www.npmjs.com/package/@todak2000/react-user-analytics): A public react library that allows developers to manage certain users’ analytics data such as is collected by google analytics (user device, user location, pages visited, etc.). It has four hooks (useGetUserLocation, useUserDevice, useIsUserUnique, useUserNavigation).
+    <a href="https://www.npmjs.com/package/@todak2000/react-user-analytics">React-user-analytics Library</a>: A public react library that allows developers to manage certain users’ analytics data such as is collected by google analytics (user device, user location, pages visited, etc.). It has four hooks (useGetUserLocation, useUserDevice, useIsUserUnique, useUserNavigation).
   </li>
 </ul>
 
