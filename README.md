@@ -11,6 +11,12 @@ Here are some of the projects that I have worked on or contributed to:
     <a href="https://bandage-ecommerce-rho.vercel.app" target="blank">Bandage E-Commerce store</a>: An e-commerce website, designed with user-friendliness and minimalism in mind. The platform features two main pages: the Homepage and the Product Details page. The Homepage displays a dynamic product list, sourced from an API, complemented by static content. The Product Details page provides an in-depth look at each product. A user can add items to their cart or wishlist, and the data will persist even after refreshing or reopening the page.
   </li>
   <li>
+    <a href="https://staging-fe.amazintrips.com" target="blank">Playa</a>: Playa is a music app that allows you to connect with over 1000 live listening rooms across genres, host your own rooms, chat live, follow people with similar music tastes, and manage your music library with ease by collecting songs, sharing playlists, and syncing playlists live across platforms.
+  </li>
+   <li>
+    <a href="https://staging-fe.amazintrips.com" target="blank">Amazin Trips</a>: Amazin Trips is your comprehensive travel companion app (web/Mobile), designed to handle all your travel planning needs seamlessly.
+  </li>
+  <li>
     <a href="http://quidroo.com" target="blank">Quidroo</a>: An online factoring platform where transactions are streamlined and SMEs get paid within 72 hours by selling their invoices to investors to get fast cash at favorable rates. I led a team to build and integrate the Stellar blockchain into Quidroo, winning a Stellar Community Fund grant of $35,000 for cross-border transaction compliance.
   </li>
   <li>
