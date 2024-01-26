@@ -8,6 +8,9 @@ Here are some of the projects that I have worked on or contributed to:
 
 <ul>
   <li>
+    <a href="https://dashlytics.vercel.app" target="blank">Dashylytics</a>: A streamlined app designed to provide a comprehensive analytics dashboard. It offers real-time data visualization, helping users track key metrics, understand trends, and make data-driven decisions with ease.
+  </li>
+  <li>
     <a href="https://bandage-ecommerce-rho.vercel.app" target="blank">Bandage E-Commerce store</a>: An e-commerce website, designed with user-friendliness and minimalism in mind. The platform features two main pages: the Homepage and the Product Details page. The Homepage displays a dynamic product list, sourced from an API, complemented by static content. The Product Details page provides an in-depth look at each product. A user can add items to their cart or wishlist, and the data will persist even after refreshing or reopening the page.
   </li>
   <li>
