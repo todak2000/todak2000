@@ -8,10 +8,16 @@ Here are some of the projects that I have worked on or contributed to:
 
 <ul>
   <li>
+    <a href="http://chimoney-pi.vercel.app" target="blank">Chimoney - replica of the Real chimoney app</a>: A fintech app that allows users to securely create and manage their accounts, send and receive payments, and view their transaction history, all integrated with Chimoney’s API and deployed live for easy access	
+  </li>
+  <li>
     <a href="https://dashlytics.vercel.app" target="blank">Dashylytics</a>: A streamlined app designed to provide a comprehensive analytics dashboard. It offers real-time data visualization, helping users track key metrics, understand trends, and make data-driven decisions with ease.
   </li>
   <li>
     <a href="https://bandage-ecommerce-rho.vercel.app" target="blank">Bandage E-Commerce store</a>: An e-commerce website, designed with user-friendliness and minimalism in mind. The platform features two main pages: the Homepage and the Product Details page. The Homepage displays a dynamic product list, sourced from an API, complemented by static content. The Product Details page provides an in-depth look at each product. A user can add items to their cart or wishlist, and the data will persist even after refreshing or reopening the page.
+  </li>
+  <li>
+    <a href="https://micro-blog-khaki.vercel.app" target="blank">Simple Blog</a>: A user-friendly blog where users can create, read, update, and delete blog posts, as well as search for posts by title.
   </li>
   <li>
     <a href="https://staging-fe.amazintrips.com" target="blank">Playa</a>: Playa is a music app that allows you to connect with over 1000 live listening rooms across genres, host your own rooms, chat live, follow people with similar music tastes, and manage your music library with ease by collecting songs, sharing playlists, and syncing playlists live across platforms.
