@@ -7,6 +7,9 @@ Here are some of the projects that I have worked on or contributed to:
 <h3 align="left">Web</h3>
 
 <ul>
+   <li>
+    <a href="https://renamarkets.com/" target="blank">Renamarkets</a>: An online market for  gadgets,  fashions, electronics and more, get flexible payment options (including crypto) alongside fast/same day delivery';
+  </li>
   <li>
     <a href="http://chimoney-pi.vercel.app" target="blank">Chimoney - replica of the Real chimoney app</a>: A fintech app that allows users to securely create and manage their accounts, send and receive payments, and view their transaction history, all integrated with Chimoney’s API and deployed live for easy access	
   </li>
@@ -69,6 +72,9 @@ Here are some of the projects that I have worked on or contributed to:
 <h3 align="left">Open Source Libraries</h3>
 
 <ul>
+  <li>
+    <a href="https://www.npmjs.com/package/@todak2000/securejs">@todak2000/securejs</a>: SecureJS is a modern JavaScript cryptography library designed to enhance web application security. It provides a user-friendly interface for complex cryptographic operations using advanced encryption algorithms.
+  </li>
   <li>
     <a href="https://www.npmjs.com/package/@todak2000/nigeria-state-lga-react-component">Nigeria-states-lga react library</a>: A public react library that allows developers to quickly fetch data about Nigerian geographical regions, states, and Local Government Areas (LGA). It has two widgets and three API hooks (useStatesApi, useStateLGAApi, StateWidget, LGAWidget, useRegionsApi).
   </li>
