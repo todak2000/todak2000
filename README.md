@@ -8,7 +8,10 @@ Here are some of the projects that I have worked on or contributed to:
 
 <ul>
    <li>
-    <a href="https://renamarkets.com/" target="blank">Renamarkets</a>: An online market for  gadgets,  fashions, electronics and more, get flexible payment options (including crypto) alongside fast/same day delivery';
+    <a href="https://renamarkets.com/" target="blank">Renamarkets</a>: An online market for  gadgets,  fashions, electronics and more, get flexible payment options (including crypto) alongside fast/same day delivery
+  </li>
+   <li>
+    <a href="https://staging.gidillo.com/" target="blank">Gidillo</a>: GIDILLO is your all-in-one solution for real estate transactions in Nigeria, offering seamless property discovery, rentals, purchases, and sales, along with effective property management. Our platform leverages digital technology to eliminate unnecessary costs and enhance efficiency, ensuring you can easily find rental properties, homes for sale, and investment opportunities, streamline rentals with secure online processes, buy your dream home hassle-free, and sell your property with reduced fees. Join our online marketplace today!
   </li>
    <li>
     <a href="https://finix-five.vercel.app" target="blank">Finix</a>: Finix is a web application designed to provide global access to digital dollars, enabling users to hold and transact in USDC (USD Coin) without needing a traditional bank account.	
