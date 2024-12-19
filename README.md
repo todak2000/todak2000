@@ -20,7 +20,7 @@ Here are some of the projects that I have worked on or contributed to:
     <a href="http://chimoney-pi.vercel.app" target="blank">Chimoney - replica of the Real chimoney app</a>: A fintech app that allows users to securely create and manage their accounts, send and receive payments, and view their transaction history, all integrated with Chimoney’s API and deployed live for easy access	
   </li>
   <li>
-    <a href="boldo-gold-eight.vercel.app" target="blank">Boldo</a>: A simple clean development of a landing page based on a figma design. Please check the repo for the design. It was a project built to improve my skills
+    <a href="https://boldo-gold-eight.vercel.app" target="blank">Boldo</a>: A simple clean development of a landing page based on a figma design. Please check the repo for the design. It was a project built to improve my skills
   </li>
    <li>
     <a href="https://dashlytics.vercel.app" target="blank">Dashylytics</a>: A streamlined app designed to provide a comprehensive analytics dashboard. It offers real-time data visualization, helping users track key metrics, understand trends, and make data-driven decisions with ease.
