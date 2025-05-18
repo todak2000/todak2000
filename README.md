@@ -14,6 +14,9 @@ Here are some of the projects that I have worked on or contributed to:
     <a href="https://staging.gidillo.com/" target="blank">Gidillo</a>: GIDILLO is your all-in-one solution for real estate transactions in Nigeria, offering seamless property discovery, rentals, purchases, and sales, along with effective property management. Our platform leverages digital technology to eliminate unnecessary costs and enhance efficiency, ensuring you can easily find rental properties, homes for sale, and investment opportunities, streamline rentals with secure online processes, buy your dream home hassle-free, and sell your property with reduced fees. Join our online marketplace today!
   </li>
    <li>
+    <a href="https://task-management-scsb.onrender.com/api-docs/" target="blank">Task Management API</a>: A RESTful API for task management with authentication, validation, and role-based access control. Built with Node.js, Express, MongoDB, and TypeScript following industry best practices. Furthermore, this project was deployed on Google Cloud Platform (GCP) using Kubernetes (GKE), Cloud SQL, Redis, and secure it with a self-signed HTTPS certificate. The deployment process is divided into logical sections for clarity and ease of use. <a href="https://github.com/todak2000/task-management/blob/mysql/k8s/README.md" target="blank">HERE</a>. This documentation provides a comprehensive guide for the deployment of the Task Management API
+  </li>
+   <li>
     <a href="https://school-portal-sigma.vercel.app" target="blank">AKS Schools Portal</a>: An online portal system to facilitate student registration for secondary schools in Akwa Ibom State. The system aims to streamline the registration process, enhance accessibility, and improve data management for educational authorities, parents, and students.
   </li>
    <li>
