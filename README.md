@@ -8,6 +8,9 @@ Here are some of the projects that I have worked on or contributed to:
 
 <ul>
    <li>
+    <a href="https://hydrochain.vercel.app/" target="blank">HydroChain (FlowShare)</a>: HydroChain (FlowShare) is a digital platform tailored for the oil and gas industry that modernizes hydrocarbon allocation among joint venture partners by enhancing transparency, efficiency, and compliance. It enables real-time tracking of hydrocarbon volumes with immutable, blockchain-secured records, and automates reconciliation processes—reducing time from days to minutes—while supporting multi-partner collaboration through shared workflows. The platform’s workflow begins with field operators
+  </li>
+   <li>
     <a href="https://renamarkets.com/" target="blank">Renamarkets</a>: An online market for  gadgets,  fashions, electronics and more, get flexible payment options (including crypto) alongside fast/same day delivery
   </li>
    <li>
